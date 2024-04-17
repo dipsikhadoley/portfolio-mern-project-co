@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8c1286b.css",
+    "main.js": "/static/js/main.30ab07f1.js",
+    "static/js/453.b68d61d6.chunk.js": "/static/js/453.b68d61d6.chunk.js",
+    "static/media/th.jpeg": "/static/media/th.9132f9301d59a53ab33d.jpeg",
+    "index.html": "/index.html",
+    "static/media/Dipsikha_cv (1).pdf.txt": "/static/media/Dipsikha_cv (1).pdf.31d6cfe0d16ae931b73c.txt",
+    "main.a8c1286b.css.map": "/static/css/main.a8c1286b.css.map",
+    "main.30ab07f1.js.map": "/static/js/main.30ab07f1.js.map",
+    "453.b68d61d6.chunk.js.map": "/static/js/453.b68d61d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8c1286b.css",
+    "static/js/main.30ab07f1.js"
+  ]
+}
